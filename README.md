@@ -14,10 +14,6 @@ Everything below ships as a real product. The application source stays private w
 | **Arise & Set** | Science-backed morning, daily, and evening wellness routines, every habit anchored to a real study. Desktop, web, and mobile, plus Wear OS / watchOS / Garmin companions. | [**▶ Try it in your browser**](https://robsprogramming.github.io/arise-web-demo/) · [Write-up](https://github.com/Robsprogramming/ariseandset-showcase) · [Get it](https://robssales.gumroad.com/l/AriseAndSet) |
 | **YesToCue** | A Windows tray app that records your day locally and hands you an AI morning briefing. Privacy-first: you see the exact payload before any AI call, and nothing leaves your machine by default. | [Engineering write-up](https://github.com/Robsprogramming/yestocue-showcase) · [Get it](https://robssales.gumroad.com/l/YesToCue) |
 
-### Open source
-
-**[llm-json-repair](https://github.com/Robsprogramming/llm-json-repair)** turns the almost-JSON that language models return into real JSON, without a paid retry. It is the exact repair ladder that ships in FoCommand, extracted as a dependency-free utility with a green test suite. If you want to see how I write and test code, start there.
-
 ---
 
 ### How I build
