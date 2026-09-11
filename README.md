@@ -10,9 +10,9 @@ Everything below ships as a real product. The application source stays private w
 
 | Product | What it does | Links |
 |---|---|---|
-| **FoCommand** | An AI focus command centre for Windows and macOS. One goal drives the day, AI plans the tasks, a live coach re-plans as it unfolds, and AI-Autopilot forms tasks from your real activity. | [**▶ Try it**](https://robsprogramming.github.io/focommand-web-demo/) · [Write-up](https://github.com/Robsprogramming/focommand-showcase) · [Get it](https://robssales.gumroad.com/l/FoCommand) |
-| **Arise & Set** | Science-backed morning, daily, and evening wellness routines, every habit anchored to a real study. The Android app is the full build — Flutter, with Wear OS, watchOS, and Garmin companions — and there's a desktop and web edition alongside it. | [**▶ Try the Android app**](https://robsprogramming.github.io/arise-android-demo/) · [Web edition](https://robsprogramming.github.io/arise-web-demo/) · [Write-up](https://github.com/Robsprogramming/ariseandset-showcase) · [Get it](https://robssales.gumroad.com/l/AriseAndSet) |
-| **YesToCue** | A Windows tray app that records your day locally and hands you an AI morning briefing. Privacy-first: you see the exact payload before any AI call, and nothing leaves your machine by default. | [Engineering write-up](https://github.com/Robsprogramming/yestocue-showcase) · [Get it](https://robssales.gumroad.com/l/YesToCue) |
+| **FoCommand** | An AI focus command centre for Windows and macOS. One goal drives the day, AI plans the tasks, a live coach re-plans as it unfolds, and AI-Autopilot forms tasks from your real activity. | [**▶ Try it**](https://robsprogramming.github.io/focommand-web-demo/) · [Write-up](https://github.com/Robsprogramming/focommand-showcase) |
+| **Arise & Set** | Science-backed morning, daily, and evening wellness routines, every habit anchored to a real study. The Android app is the full build - Flutter, with Wear OS, watchOS, and Garmin companions - and there's a desktop and web edition alongside it. | [**▶ Try the Android app**](https://robsprogramming.github.io/arise-android-demo/) · [Web edition](https://robsprogramming.github.io/arise-web-demo/) · [Write-up](https://github.com/Robsprogramming/ariseandset-showcase) |
+| **YesToCue** | A Windows tray app that records your day locally and hands you an AI morning briefing. Privacy-first: you see the exact payload before any AI call, and nothing leaves your machine by default. | [Engineering write-up](https://github.com/Robsprogramming/yestocue-showcase) |
 
 ---
 
@@ -24,4 +24,4 @@ Everything below ships as a real product. The application source stays private w
 
 ---
 
-<sub>Buy the builds at [robssales.gumroad.com](https://robssales.gumroad.com) · self-taught, AI-assisted, shipping solo.</sub>
+<sub>Self-taught, AI-assisted, shipping solo.</sub>
